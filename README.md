@@ -3,7 +3,7 @@
 
 Repositório do projeto "toYasmin2", feito com auxilio de um video do Youtube do canal [CodingNepal](https://www.youtube.com/watch?v=VUtJ7FWCfZA)
 
-Uitlizando JavaScript, através da PokeApi, uma bibilioteca de todos os pokemons.
+Uitlizando JavaScript e a biblioteca SwiperJS.
 
 ## Veja o Projeto online aqui
 
